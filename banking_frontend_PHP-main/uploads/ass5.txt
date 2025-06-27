@@ -1,3 +1,0 @@
-github: https://github.com/MohammedShakib/assignment05
-
-liveLink: https://mohammedshakib.github.io/assignment05/index.html
