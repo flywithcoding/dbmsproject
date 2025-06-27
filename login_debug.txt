@@ -1,0 +1,27 @@
+Form submitted: 2025-06-25 16:32:06
+Login successful for shakib at 2025-06-25 16:32:06
+Trying to insert login history for shakib
+Login history inserted successfully: shakib
+Updated dual user last_login for shakib
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 07:42:00
+Login successful for M.Abir at 2025-06-26 07:42:00
+Trying to insert login history for M.Abir
+Login history inserted successfully: M.Abir
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-26 07:42:38
+Login successful for saba at 2025-06-26 07:42:38
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
+Form submitted: 2025-06-27 16:27:35
+Login successful for saba at 2025-06-27 16:27:35
+Trying to insert login history for saba
+Login history inserted successfully: saba
+Updated dual user last_login for saba
+Login history tracking completed. Debug message: Login history recorded successfully!
+Regular user - redirecting to home.php
